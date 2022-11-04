@@ -1,0 +1,10 @@
+drop_down = "//div[@id='myDropdown']"
+opt_one = "//a[@id='dropOption1']"
+opt_two = "//a[@id='dropOption2']"
+opt_three = "//a[@id='dropOption3']"
+
+select_drop_down = "//select[@id='mySelect']"
+quarter_meter = "//meter[@value='0.25']"
+helf_meter = "//meter[@value='0.50']"
+three_quarters_quarter = "//meter[@value='0.75']"
+full_meter = "//meter[@value='1']"
